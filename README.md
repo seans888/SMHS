@@ -1,6 +1,7 @@
-# SM Hotels - Service Request Management System (School Project Repository)
+# SM Hotels - Service Request Management System
+(School Project Repository)
 
-#Group Members
+Group Members
 
 1. Lurenne Tangi - Project Manager
 2. Kenneth Abuel - Project Developer
